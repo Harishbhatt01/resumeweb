@@ -527,7 +527,7 @@ nav {
     flex-direction: column;
     gap: 20px;
     width: 40vw;
-    height: 200px;
+    height: 250px;
     min-width: 320px;
     padding: 30px 5px;
     background: var(--white-color);
