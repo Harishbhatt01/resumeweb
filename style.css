@@ -729,6 +729,7 @@ footer li a {
     justify-content: center;
     /* flex-wrap: wrap; */
     gap: 30px;
+    padding: 0px 0px 0px 15px;
 }
 
 .last-div {
